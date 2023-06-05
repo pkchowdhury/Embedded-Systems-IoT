@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\keilARM\\projects\\Serial Communication"
+		},
+		{
+			"name": "stm32f4xx_lora",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.cpp": "cpp",
+			"stdlib.h": "c",
+			"stdio.h": "c"
+		}
+	}
+}

@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"name": "stm32f4xx_lora",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.cpp": "cpp",
+			"atomic": "cpp",
+			"*.tcc": "cpp",
+			"fstream": "cpp",
+			"functional": "cpp",
+			"cstddef": "cpp",
+			"memory_resource": "cpp",
+			"istream": "cpp",
+			"memory": "cpp",
+			"typeinfo": "cpp",
+			"*.tpp": "cpp"
+		}
+	}
+}
